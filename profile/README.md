@@ -5,8 +5,12 @@
 Iceberg ASV is a student-led, inter-disciplinary engineering competition team representing Memorial University at the annual International RoboBoat Competition in Florida. Our team works collaboratively to design, construct, and test an Autonomous Surface Vehicle (ASV). 
 
 # GitHub Structure
-The GitHub Structure of our organization includes a 'main' repository, [asv](https://github.com/IcebergASV/asv) which encapsulates and integrates all software used on our boat. There exists sub-modules of the [asv-system] for each hardware component, such as [asv-lidar] and [asv-camera]. 
+Outline of how our repositories are structured.
 
-There is also a repo, [gz-simulator] that contains all software and resources used in our GAZEBO simulation environment.
+## asv-system
+[asv](https://github.com/IcebergASV/asv) is our 'main' repository that integrates all software used on our boat. There exists [asv-system] sub-modules for each hardware component, such as [asv-lidar] and [asv-camera]. 
+
+## gz-simulator
+[gz-simulator] contains all software and resources used in our GAZEBO simulation environment.
 
 
