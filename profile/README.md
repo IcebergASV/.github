@@ -10,6 +10,14 @@ Outline of how our repositories are structured.
 ## asv-system
 [asv](https://github.com/IcebergASV/asv) is our 'main' repository that integrates all software used on our boat. There exists [asv-system] sub-modules for each hardware component, such as [asv-lidar] and [asv-camera]. 
 
+``` mermaid
+graph TD;
+    asv-system-->asv-lidar;
+    asv-system-->asv-camera;
+    asv-system-->asv-imu;
+    asv-system-->asv-pixhawk;
+```
+
 ## gz-simulator
 [gz-simulator] contains all software and resources used in our GAZEBO simulation environment.
 
