@@ -21,5 +21,11 @@ graph TD;
 ## gz-simulator
 [gz-simulator](https://github.com/IcebergASV/gz-simulator) contains all software and resources used in our GAZEBO simulation environment.
 
-<!-- # Workflow -->
+# Workflow 
+## Feature Branch Workflow
+Iceberg ASV uses a [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). When a developer is working in a repository, they *must* must make or resolve an issue associated with that repository. The developer must also make a 'feature' branch to resolve the issue. 
 
+If a developer runs into a problem while working to resolve an issue, they must make a new issue and a new feature branch to resolve the issue.
+
+## Repository Readme
+In each repository for hardware components it is essential that developers add the links and commands used to install packages on the TX2.
