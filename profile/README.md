@@ -30,7 +30,7 @@ If a developer runs into a problem while working to resolve an issue, they must 
 ## Repository Readme
 In each repository for hardware components it is essential that developers add the links and commands used to install packages on the TX2.
 
-#Developer Coding Guidelines
+# Developer Coding Guidelines
 ## Name Convention
 * A name should cover the reason for its existence. It should be able to answer the following questions:
     * What will it achieve?
