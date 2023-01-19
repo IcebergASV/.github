@@ -29,3 +29,34 @@ If a developer runs into a problem while working to resolve an issue, they must 
 
 ## Repository Readme
 In each repository for hardware components it is essential that developers add the links and commands used to install packages on the TX2.
+
+#Developer Coding Guidelines
+## Name Convention
+* A name should cover the reason for its existence. It should be able to answer the following questions:
+    * What will it achieve?
+    * How will it be utilized?
+* Names should be pronounceable and avoid encoding.
+## Functions
+* A function should carry out one task. Functions should not be lengthy.
+## Comments
+* Adequate naming convention can replace the use of comments.
+* Comments can be used to: 
+    * Explain a decision behind a code implementation
+    * Clarify and Inform
+##Formatting
+*Concepts that are closely related should keep a close vertical
+distance.
+* Declarations of variables or functions should take place close to
+where they will be used.
+* The order of file should be high to low. The detail should progress as the file is scrolled.
+### Vertical Formatting
+* Concepts that are closely related should keep a close vertical
+distance.
+* Declarations of variables or functions should take place close to
+where they will be used.
+* The order of file should be high to low. The detail should progress as the file is scrolled.
+### Horizontal Formatting 
+* Aim for short lines (100-120 characters)
+* Horizontal spacing brings attention to related concepts
+* Indentation gives structure to the file
+
