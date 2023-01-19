@@ -43,8 +43,8 @@ In each repository for hardware components it is essential that developers add t
 * Comments can be used to: 
     * Explain a decision behind a code implementation
     * Clarify and Inform
-##Formatting
-*Concepts that are closely related should keep a close vertical
+## Formatting
+* Concepts that are closely related should keep a close vertical
 distance.
 * Declarations of variables or functions should take place close to
 where they will be used.
