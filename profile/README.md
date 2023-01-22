@@ -60,3 +60,5 @@ where they will be used.
 * Horizontal spacing brings attention to related concepts
 * Indentation gives structure to the file
 
+# About TX2 Setup
+We used the [rootOnNVMe](https://github.com/jetsonhacks/rootOnNVMe) repository to put the root directory on out Samsung 970 Pro SSD.
