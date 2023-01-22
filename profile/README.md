@@ -61,4 +61,6 @@ where they will be used.
 * Indentation gives structure to the file
 
 # About TX2 Setup
-We used the [rootOnNVMe](https://github.com/jetsonhacks/rootOnNVMe) repository to put the root directory on out Samsung 970 Pro SSD.
+We used the [rootOnNVMe](https://github.com/jetsonhacks/rootOnNVMe) repository to put the root directory on out Samsung 970 Pro SSD. 
+
+**Benefits:** SSD is faster and larger than the storage on the TX2.
