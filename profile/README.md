@@ -63,4 +63,36 @@ where they will be used.
 # About TX2 Setup
 We used the [rootOnNVMe](https://github.com/jetsonhacks/rootOnNVMe) repository to put the root directory on out Samsung 970 Pro SSD. 
 
+
 **Benefits:** SSD is faster and larger than the storage on the TX2.
+
+# Sponsors
+
+<table>
+  <tr>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/d2c0c380-57f4-4055-bbae-1a169a4b46f9" style="height:200px;"></td>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/1dff3a2e-b67c-4819-b462-304b9052b98a" style="height:200px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/c94669a9-a977-47b2-805b-0896d9e77853" style="height:200px;"></td>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/426f6629-4e5d-4112-a085-cb815841ed5d" style="height:200px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/e21509c8-001e-4110-bc63-41b34c7bf371" style="height:200px;"></td>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/338d92ce-b01a-4a68-8036-167a282477eb" style="height:200px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/5534599b-0ae1-42f0-a33c-d05678953b0c" style="height:200px;"></td>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/580e6a57-53e4-4a93-975e-342d0d7fd15f" style="height:200px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/74e1f8d8-f74a-4d83-8f4c-7899234a2217" style="height:200px;"></td>
+    <td><img src="https://github.com/IcebergASV/.github/assets/90921913/bf98f185-c7d9-487b-bc3a-09318f0d7127" style="height:200px;"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github.com/IcebergASV/.github/assets/90921913/04535afb-aaea-400c-a54e-3f28f6373400" style="height:200px;"></td>
+  </tr>
+</table>
+
+
+
